@@ -1,0 +1,17 @@
+.phoneNumber{
+	border-bottom: 1px solid #ccc;
+	padding: 30rpx 0;
+}
+.box{
+	display: flex;
+	justify-content: space-between;
+	.yanZheng{
+		border-bottom: 1px solid #ccc;
+		padding: 30rpx 0;
+		width: 70%;
+	}
+	.huoQu{
+		background-color: #fff;
+		padding: 20rpx;
+	}
+}

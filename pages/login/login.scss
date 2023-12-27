@@ -1,0 +1,23 @@
+.user-login{
+ padding: 66rpx;
+ .login-type {
+	 display: flex;
+	 justify-content: space-between;
+	 align-items: flex-end;
+		.title{
+			font-weight: 700;
+			font-size: 36rpx;
+		}
+		.type{
+			float: right;
+			font-weight: 700;
+			color: darkorange;
+		}
+	}
+	.login{
+	background-color: darkorange;
+	margin-top: 40rpx;
+	border-radius: 50rpx;
+	color: white;
+	}
+}
